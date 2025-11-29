@@ -93,7 +93,6 @@ Skills
 
 Publications
 ======
-Benjamin, J. (2022). Student Volunteer Ideal Type Formation in Community Gardens. UF Journal of Undergraduate Research, 24. https://doi.org/10.32473/ufjur.24.130781 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
