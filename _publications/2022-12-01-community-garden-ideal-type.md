@@ -9,7 +9,7 @@ venue: 'UF Journal of Undergraduate Research'
 slidesurl: 'https://jsphbenj.github.io/files/community_garden_ideal_types_poster.pdf'
 paperurl: 'https://jsphbenj.github.io/files/community_garden_ideal_types_paper.pdf'
 bibtexurl: 'https://jsphbenj.github.io/files/bibtex1.bib'
-citation: 'Benjamin, Joseph Brian. (2022). &quot;Student Volunteer Ideal Type Formation in Community Gardens..&quot; <i>UF Journal of Undergraduate Research</i>. 1(1).'
+citation: 'Benjamin, Joseph Brian. (2022). &quot;Student Volunteer Ideal Type Formation in Community Gardens.&quot; <i>UF Journal of Undergraduate Research</i>. 1(1).'
 ---
 Coming into the University of Florida, Joseph was of the 2% of students in my cohort selected for the University Research Scholars Program. As a part of URSP, he took Research and Creativity in the fall of his freshman year. This course taught about the power of research by giving a comprehensive introduction to the university research process and pathways to involvement. 
 
