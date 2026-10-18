@@ -1,6 +1,6 @@
 ---
 title: "The Sprig on Rosemary"
-excerpt: "Skills: Urban Design, Site Planning & Analysis, SketchUp"<br/><img src='/images/project_deliverables/752_site_planning_sprig_poster.png)'>"
+excerpt: "Skills: Urban Design, Site Planning & Analysis, SketchUp <br/><img src='/images/project_deliverables/752_site_planning_sprig_poster.png'>"
 collection: portfolio
 ---
 
