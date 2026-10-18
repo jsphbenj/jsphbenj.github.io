@@ -11,22 +11,30 @@ redirect_from:
 
 Education
 ======
-* MCRP City and Regional Planning, University of North Carolina at Chapel Hill, 2027 (expected)
+* Master of City and Regional Planning, University of North Carolina at Chapel Hill, 2027 (expected)
   * Specialization: Transportation
-* BS Sustainability and the Built Environment, University of Florida, 2025
+* Bachelor of Science in Sustainability and the Built Environment, University of Florida, 2025
   * Summa cum laude
   * Specialization: Geodesign
   * Minor: German
 
 Work experience
 ======
-* Aug 2025 – Present: Graduate Teaching Assistant
+* May 2026 - Present
+  * Kittelson & Associates, Orlando, FL and Raleigh, NC
+  * Supports active transportation, safety, and transit projects across 5+ states and 15+ municipalities/MPOs.
+  * Utilized Survey123 Connect for spatially explicit survey data collection, conducted community outreach for transit studies and bike plans, and prepared client-facing memos and presentations.  
+  * Assists in coordination of a quarterly statewide meeting of 65+ transportation professionals for the Florida Pedestrian and Bicycle Safety Coalition.  
+  * Mentors: Jady Chen, James Ehmer, Amy Grace Watkins
+
+
+* Aug 2025 – May 2026: Graduate Teaching Assistant
   * School of Data Science and Society, UNC
   * Leads in-class discussions, grades, and holds office hours for DATA 120, a course on the ethics of AI.
-  * Supervisor: Hsun-Ta Hsu
+  * Supervisor: Hsun-Ta Hsu (Fall 2025), Sun Ha Song (Spring 2026)
 
 
-* Aug 2024 – Present: AI Research Scholar
+* Aug 2024 – July 2025: AI Research Scholar
   * Ecosystem Services GeoAI Lab, Gainesville, FL 
   * Conducts research on cultural ecosystem service provision along the street networks 5 largest Florida cities, applying computer vision and big data representing nationwide mobility patterns. 
   * Employs spatial and econometric analysis on ecosystem services projects spanning telemetric livestock and agricultural aerial imagery.
@@ -88,8 +96,11 @@ Leadership and Community Engagement
 Skills
 ======
 * GIS
+* SketchUp, Rhino
+* PowerBI
 * Python
 * R
+* Transit Data Management: GTFS, AVL, APC, and TNC data
 
 Publications
 ======
