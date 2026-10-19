@@ -11,4 +11,4 @@ SDG Sustainable Cities in Cuenca, Ecuador (June 2025).
 
 Skills: Python, ArcGIS, Semantic Segmentation (Machine Learning)
 
-![Project poster](../images/project_deliverables/portfolio_gsvgvi.png)
+![Project poster]('../images/project_deliverables/portfolio_gsvgvi.png')

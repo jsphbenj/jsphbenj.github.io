@@ -1,6 +1,6 @@
 ---
 title: "Human Impact on Yellowstone National Park"
-excerpt: "Skills: ArcGIS, Trails & Parks Planning <br/><img src='../images/project_deliverables/portfolio_gsvgvi.png'>"
+excerpt: "Skills: ArcGIS, Trails & Parks Planning <br/><img src='../images/project_deliverables/portfolio_trailslopealignment_reportcover.png'>"
 collection: portfolio
 ---
 
@@ -12,4 +12,4 @@ as a function of Trail Slope Alignment.
 
 Skills: ArcGIS, Trails & Parks Planning
 
-![Script tool screenshot](../images/project_deliverables/portfolio_trailslopealignment_reportcover.png)
+![Script tool screenshot]('../images/project_deliverables/portfolio_trailslopealignment_reportcover.png')
