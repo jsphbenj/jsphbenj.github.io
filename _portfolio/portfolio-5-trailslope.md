@@ -12,4 +12,4 @@ as a function of Trail Slope Alignment.
 
 Skills: ArcGIS, Trails & Parks Planning
 
-![Script tool screenshot]('../images/project_deliverables/portfolio_trailslopealignment_reportcover.png')
+![Script tool screenshot](../images/project_deliverables/portfolio_trailslopealignment_scripttool.png)
